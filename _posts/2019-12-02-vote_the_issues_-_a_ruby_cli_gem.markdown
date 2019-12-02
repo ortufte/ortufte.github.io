@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "VOTE THE ISSUES - A RUBY CLI GEM "
-date:       2019-12-02 19:09:56 +0000
+date:       2019-12-02 14:09:57 -0500
 permalink:  vote_the_issues_-_a_ruby_cli_gem
 ---
 
@@ -18,7 +18,7 @@ I decided to create Vote the Issues, an application that would allow the user to
 
 ``10.times do``
 
-      puts "HA! HA! HA!"
+      ``puts "HA! HA! HA!"``
 				 
 ``end``
 
