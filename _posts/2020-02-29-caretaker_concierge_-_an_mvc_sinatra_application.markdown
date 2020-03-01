@@ -17,3 +17,5 @@ In Caretaker Concierge, a dependent can be anything you care for; a child, a pet
 I learned a lot during the Sinatra project phase, and though I'm looking forward to getting back to labs with test suites and green check boxes on lessons, I really enjoyed challenging myself and building something that will hopefully become useful to people in the future! 
 
 If you're interested in checking it out, or have any helpful feedback, here's a link to the github repo: [https://github.com/ortufte/caretaker-concierge](http://)
+
+Here's a link to the video walkthru I did, showing what a user is able to do with the app at this point in time: https://youtu.be/iTpFmEAkVOI
