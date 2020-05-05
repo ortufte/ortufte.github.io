@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Job Hunter - My Rails Portfolio Project "
-date:       2020-05-05 20:44:33 +0000
+date:       2020-05-05 16:44:34 -0400
 permalink:  job_hunter_-_my_rails_portfolio_project
 ---
 
